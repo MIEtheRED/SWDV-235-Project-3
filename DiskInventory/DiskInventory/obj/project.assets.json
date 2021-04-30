@@ -6146,11 +6146,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bmiethe\\Documents\\SWDV235\\DiskInventory\\DiskInventory\\DiskInventory.csproj",
+      "projectUniqueName": "C:\\Users\\bmiethe\\Documents\\GitHub\\SWDV-235-Project-3\\DiskInventory\\DiskInventory\\DiskInventory.csproj",
       "projectName": "DiskInventory",
-      "projectPath": "C:\\Users\\bmiethe\\Documents\\SWDV235\\DiskInventory\\DiskInventory\\DiskInventory.csproj",
+      "projectPath": "C:\\Users\\bmiethe\\Documents\\GitHub\\SWDV-235-Project-3\\DiskInventory\\DiskInventory\\DiskInventory.csproj",
       "packagesPath": "C:\\Users\\bmiethe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bmiethe\\Documents\\SWDV235\\DiskInventory\\DiskInventory\\obj\\",
+      "outputPath": "C:\\Users\\bmiethe\\Documents\\GitHub\\SWDV-235-Project-3\\DiskInventory\\DiskInventory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bmiethe\\AppData\\Roaming\\NuGet\\NuGet.Config",
